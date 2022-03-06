@@ -1,0 +1,1 @@
+Transfers the style from the "v.png" image to the "forest.jpg" image. The "result" image is the result.
